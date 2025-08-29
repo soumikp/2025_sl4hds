@@ -1,6 +1,6 @@
 rm(list = ls())
 
-pacman::p_load(tidyverse, patchwork, here)
+pacman::p_load(tidyverse, patchwork, here, ggpubfigs)
 
 ### regression example
 reg_data <- read_csv(file.path(here(), "class1", "data", "neonatal_brain_volumes.csv"))

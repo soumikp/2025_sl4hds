@@ -1,6 +1,6 @@
 rm(list = ls())
 
-pacman::p_load(ggplot2, caret, e1071, emojifont)
+pacman::p_load(ggplot2, caret, e1071, emojifont, ggpubfigs, tidyverse, here)
 
 ### clustering example
 clust_data <- read_csv(file.path(here(), "class1", "data", "sbp_bmi_measurements.csv"))

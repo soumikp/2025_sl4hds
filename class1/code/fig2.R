@@ -1,6 +1,6 @@
 rm(list = ls())
 
-pacman::p_load(tidyverse, patchwork, here, caret)
+pacman::p_load(tidyverse, patchwork, here, caret, ggnewscale, ggpubfigs)
 
 ### classification example
 

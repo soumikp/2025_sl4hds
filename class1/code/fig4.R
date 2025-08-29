@@ -1,6 +1,6 @@
 rm(list = ls())
 
-pacman::p_load(ggplot2, dplyr, e1071, table1) # For the SVM model
+pacman::p_load(tidyverse, here, ggpubfigs, dplyr, e1071, table1) # For the SVM model
 
 health_data <- read_csv(file.path(here(), "class1", "data", "breast_tumor_measurements.csv"))
 
