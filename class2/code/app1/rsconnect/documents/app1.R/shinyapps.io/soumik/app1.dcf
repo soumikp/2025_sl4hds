@@ -1,0 +1,12 @@
+name: app1
+title: app1
+username: soumik
+account: soumik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15336196
+bundleId: 10856354
+url: https://soumik.shinyapps.io/app1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
