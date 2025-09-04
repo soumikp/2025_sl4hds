@@ -1,6 +1,3 @@
-rm(list = ls())
-require(pacman)
-source(file.path(here::here(), "class2", "code", "helper.R"))
 
 # Load necessary libraries
 library(shiny)

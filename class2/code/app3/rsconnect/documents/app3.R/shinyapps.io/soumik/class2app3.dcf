@@ -4,8 +4,8 @@ username: soumik
 account: soumik
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 15346284
-bundleId: 10860383
+appId: 15346776
+bundleId: 10860823
 url: https://soumik.shinyapps.io/class2app3/
 version: 1
 asMultiple: FALSE
